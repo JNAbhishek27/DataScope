@@ -89,7 +89,3 @@ API_KEY = os.getenv("ELASTIC_API_KEY")
 * Score-based credibility ranking
 
 ---
-
-## License
-
-MIT License
